@@ -12,7 +12,7 @@ interface FileSplitter {
     interface SplitConfig {
 
         /**
-         * @return путь до файла с входными данными
+         * @return путь до файлас входными данными
          */
         String getSourceFilePath();
 
